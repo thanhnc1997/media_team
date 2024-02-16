@@ -25,8 +25,7 @@ const current_month = {
 	'18-02-2024': [
 		{
 			id: 1,
-			name: 'Thuyết',
-			fouls: 1
+			name: 'Thuyết'
 		},
 		{
 			id: 2,
@@ -62,7 +61,8 @@ const current_month = {
 	'16-02-2024': [
 		{
 			id: 1,
-			name: 'Thuyết'
+			name: 'Thuyết',
+			fouls: 1
 		},
 		{
 			id: 2,
