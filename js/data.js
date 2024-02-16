@@ -2,7 +2,7 @@ const teammates = [
 	{
 		id: 1,
 		name: 'Thuyết',
-		total_fouls: 2
+		total_fouls: 3
 	},
 	{
 		id: 2,
@@ -25,7 +25,8 @@ const current_month = {
 	'18-02-2024': [
 		{
 			id: 1,
-			name: 'Thuyết'
+			name: 'Thuyết',
+			fouls: 1
 		},
 		{
 			id: 2,
